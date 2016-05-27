@@ -1,5 +1,5 @@
 img {
-  width: 100px;
+  width: 300px;
   align-content: center;
 
 }
@@ -20,14 +20,18 @@ h3 {
 }
 
 p.intro {
-  
+
 }
 
 body {
-  background-color: #f3e6ff;
+  color: #5c00b3;
 }
 
 #page-wrap {
      width: 800px;
      margin: 0 auto;
+}
+
+html {
+  color:#f3e6ff;
 }
