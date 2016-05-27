@@ -5,26 +5,18 @@ img {
 }
 
 h1 {
-  color:#350066
-  font-family: cursive;
+  color:#404040;
+  font-family: inherit;
 }
 
 h2 {
-  color:#350066
+  color:#404040;
 
 }
 
 h3 {
-  color:#350066
+  color:#404040;
 
-}
-
-p.intro {
-
-}
-
-body {
-  color: #5c00b3;
 }
 
 #page-wrap {
@@ -32,6 +24,37 @@ body {
      margin: 0 auto;
 }
 
-html {
-  color:#f3e6ff;
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    color: #404040;
+}
+
+.my-profile img.banner-image-md{
+    z-index: 0;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.fb-image-profile
+{
+    margin: -90px 10px 0px 50px;
+    z-index: 9;
+    width: 20%;
+}
+
+@media (max-width:768px)
+{
+
+.intro-text>h1{
+    font-weight: 700;
+    font-size:16px;
+}
+
+.fb-image-profile
+{
+    margin: -45px 10px 0px 25px;
+    z-index: 9;
+    width: 20%;
+}
 }
