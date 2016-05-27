@@ -1,0 +1,33 @@
+img {
+  width: 100px;
+  align-content: center;
+
+}
+
+h1 {
+  color:#350066
+  font-family: cursive;
+}
+
+h2 {
+  color:#350066
+
+}
+
+h3 {
+  color:#350066
+
+}
+
+p.intro {
+  
+}
+
+body {
+  background-color: #f3e6ff;
+}
+
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
