@@ -1,6 +1,7 @@
 img {
   width: 300px;
   align-content: center;
+  padding-right: 10px;
 
 }
 
@@ -20,41 +21,42 @@ h3 {
 }
 
 #page-wrap {
-     width: 800px;
-     margin: 0 auto;
+  width: 800px;
+  margin: 0 auto;
 }
 
 body
 {
-    font-family: 'Open Sans', sans-serif;
-    color: #404040;
+  font-family: 'Open Sans', sans-serif;
+  color: #404040;
 }
 
 .my-profile img.banner-image-md{
-    z-index: 0;
-    width: 100%;
-    margin-bottom: 10px;
+  z-index: 0;
+  width: 100%;
+  margin-bottom: 10px;
 }
 
 .fb-image-profile
 {
-    margin: -90px 10px 0px 50px;
-    z-index: 9;
-    width: 20%;
+  margin: -90px 10px 0px 50px;
+  z-index: 9;
+  width: 20%;
 }
 
-@media (max-width:768px)
+@media {
+  max-width:768px;
 {
 
 .intro-text>h1{
-    font-weight: 700;
-    font-size:16px;
+  font-weight: 700;
+  font-size:16px;
 }
 
 .fb-image-profile
 {
-    margin: -45px 10px 0px 25px;
-    z-index: 9;
-    width: 20%;
+  margin: -45px 10px 0px 25px;
+  z-index: 9;
+  width: 20%;
 }
 }
