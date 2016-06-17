@@ -10,7 +10,8 @@ _ This is my first independent project as an Introduction to Programming student
 
 ## Setup/Installation Requirements
 
-* _Open in web broswer_
+* _Open web broswer_
+* _View at: http://ribermudes.github.io/Rachaels-Page/ _
 
 
 ## Known Bugs
@@ -24,5 +25,9 @@ _Any contributions or inquiries can be submitted to me at bermudesorama@gmail.co
 ## Technologies Used
 
 _HTML, CSS, and Bootstrap_
+
+### License
+
+*This software is licensed under the MIT license.*
 
 Copyright (c) 2016 **_Rachael Bermudes_**
