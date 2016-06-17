@@ -1,28 +1,28 @@
-# Rachael-s-Page
-Rachael's Independent Project, week 1
-Rachael's Web Page
+# _Rachael's Page_
 
-First Independent Epicodus Project, 5.27.2016
+#### _First week independent project, 6/16/16_
 
-By Rachael Bermudes
+#### By _**Rachael Bermudes**_
 
-Description
+## Description
 
-This page is a review of the skills that we have learned this week, the assignment was to build our own webpage that described ourselves. I included a picture, backgroud information, and included other projects we have worked on thus far. 
+_ This is my first independent project as an Introduction to Programming student. The purpose of this page is to utilize the skills we have learned in our first week and introduce ourselves._
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 
-Just locate page in browser. 
+* _Open in web broswer_
 
 
-Known Bugs
+## Known Bugs
 
-There are no known bugs.
+_There are no known bugs._
 
-Support and contact details
+## Support and contact details
 
-You can email me at bermudesorama@gmail.com. 
+_Any contributions or inquiries can be submitted to me at bermudesorama@gmail.com_
 
-Technologies Used
+## Technologies Used
 
-Used HTML and CSS, also incorporated Bootstrap elements. 
+_HTML, CSS, and Bootstrap_
+
+Copyright (c) 2016 **_Rachael Bermudes_**
