@@ -6,7 +6,7 @@ img {
 }
 
 h1 {
-  color:#404040;
+
   font-family: inherit;
 }
 
@@ -20,21 +20,21 @@ h3 {
 
 }
 
-#page-wrap {
-  width: 800px;
-  margin: 0 auto;
-}
-
 body
 {
   font-family: 'Open Sans', sans-serif;
   color: #404040;
 }
 
-.my-profile img.banner-image-md{
-  z-index: 0;
-  width: 100%;
-  margin-bottom: 10px;
+#page-wrap {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.jumbotron {
+  background-image: url("img/coffeebooks.jpg") !important;
+  color: white !important;
+  -webkit-text-stroke: 2px black;
 }
 
 .fb-image-profile
@@ -44,11 +44,7 @@ body
   width: 20%;
 }
 
-@media {
-  max-width:768px;
-{
-
-.intro-text>h1{
+.intro-text > h1 {
   font-weight: 700;
   font-size:16px;
 }
@@ -59,4 +55,7 @@ body
   z-index: 9;
   width: 20%;
 }
+
+@media {
+  max-width:768px;
 }
